@@ -1,0 +1,10 @@
+2020-12-27 21:42:27.359 DEBUG  root  [line: 10] debug msg
+2020-12-27 21:42:27.360 INFO  root  [line: 11] info msg
+2020-12-27 21:42:27.360 WARNING  root  [line: 12] warning msg
+2020-12-27 21:42:27.360 ERROR  root  [line: 13] error msg
+2020-12-27 21:42:27.360 CRITICAL  root  [line: 14] critical msg
+2020-12-27 21:42:33.318 DEBUG  root  [line: 10] debug msg
+2020-12-27 21:42:33.318 INFO  root  [line: 11] info msg
+2020-12-27 21:42:33.318 WARNING  root  [line: 12] warning msg
+2020-12-27 21:42:33.318 ERROR  root  [line: 13] error msg
+2020-12-27 21:42:33.318 CRITICAL  root  [line: 14] critical msg
